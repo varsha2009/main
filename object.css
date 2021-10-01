@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url("https://wallpaperaccess.com/full/1155015.jpg");
+}
+#header{
+
+    font-weight: bold;
+}
+.tags{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    box-shadow: 8px 8px 18px rgb(53, 53, 53);
+    border-radius: 20px;
+    
+}
